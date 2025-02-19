@@ -28,16 +28,26 @@ The SOL Price Loss-Free Bot is a useful tool that helps protect against losses c
 Create a .env file and add the following configuration:
 
 PRIVATE_KEY=
+
 RPC_ENDPOINT=
+
 RPC_WEBSOCKET_ENDPOINT=
+
 QUOTE_MINT=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+
 MAIN_MINT=So11111111111111111111111111111111111111112
+
 COMMITMENT_LEVEL=confirmed
+
 IS_JITO=true
+
 JITO_FEE=0.00001
 
+
 FETCH_SOL_PRICE_TIME=60000  # Fetch SOL price every 60 seconds
+
 LIMIT_SOL_PRICE=180  # Threshold price for swapping SOL/USDC
+
 MIN_SOL_BALANCE=0.01  # Minimum SOL balance to keep in wallet
 
 
@@ -60,4 +70,5 @@ JITO fee can be adjusted if needed.
 If you are interested in the project, please contact me.
 
 Telegram : https://t.me/topsecretagent_007
+
 Twitter : https://x.com/lendon1114
